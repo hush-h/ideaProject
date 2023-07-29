@@ -7,5 +7,6 @@ public class Demo1 {
         System.out.println("helloWorld");
         System.out.println("helloWorld");
         System.out.println("我是dev01，新创建的分支");
+        System.out.println("我是master新增");
     }
 }
