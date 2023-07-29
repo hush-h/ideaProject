@@ -1,0 +1,12 @@
+package com.string;
+
+import java.util.Scanner;
+
+public class Demo7Replace {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        String s = sc.nextLine();
+        String result = s.replace("tmd","***");
+        System.out.println(result);
+    }
+}
