@@ -2,6 +2,8 @@ package com.jcx.edu.info.manager.entry;
 
 
 import com.jcx.edu.info.manager.controller.StudentController;
+import com.jcx.edu.info.manager.controller.TeacherController;
+import com.jcx.edu.info.manager.domain.Teacher;
 
 import java.util.Scanner;
 
@@ -21,7 +23,9 @@ public class InfoManagerEntry {
                     studentController.start();
                     break;
                 case "2" :
-                    System.out.println("老师管理");
+                    //System.out.println("老师管理");
+                    TeacherController teacherController =new TeacherController();
+                    teacherController.start();
                     break;
                 case "3" :
                     System.out.println("感谢你的使用");

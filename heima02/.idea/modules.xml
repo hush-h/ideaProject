@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/heima02.iml" filepath="$PROJECT_DIR$/.idea/heima02.iml" />
       <module fileurl="file://$PROJECT_DIR$/itheima-edu-info-manager/itheima-edu-info-manager.iml" filepath="$PROJECT_DIR$/itheima-edu-info-manager/itheima-edu-info-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-extends/test-extends.iml" filepath="$PROJECT_DIR$/test-extends/test-extends.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-inerface/test-inerface.iml" filepath="$PROJECT_DIR$/test-inerface/test-inerface.iml" />
     </modules>
   </component>
 </project>
